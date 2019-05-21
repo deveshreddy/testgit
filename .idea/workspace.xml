@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4d5da27-ee5f-4048-8220-b4c6fd0e9831" name="Default" comment="from intellij">
+    <list default="true" id="a4d5da27-ee5f-4048-8220-b4c6fd0e9831" name="Default" comment="added py file">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testpy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="testpy.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testpy.py">
+      <file leaf-file-name="pytest.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pytest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="140">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -29,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,6 +43,7 @@
       <list>
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/testpy.py" />
+        <option value="$PROJECT_DIR$/pytest.html" />
       </list>
     </option>
   </component>
@@ -150,15 +154,22 @@
       <option name="project" value="LOCAL" />
       <updated>1558444795753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added py file">
+      <created>1558445513600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558445513600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32913387" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -189,7 +200,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="from intellij" />
-    <option name="LAST_COMMIT_MESSAGE" value="from intellij" />
+    <MESSAGE value="added py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added py file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.html">
@@ -203,6 +215,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
